@@ -18,7 +18,7 @@ React, design systems, and full-stack development
 Open-source projects and freelance software development work  
 
 📫 **Reach me at**  
-[example@gmail.com](mailto:bkhtwr19@gmail.com)  
+[bkhtwr19@gmail.com](mailto:bkhtwr19@gmail.com)  
 
 ---
 
