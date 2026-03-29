@@ -3,22 +3,22 @@
 ## About Me
 
 👨‍💼 **Working on**  
-Full-stack web applications using modern technologies  
+MERN, Java, and Python
 
 👨‍🎓 **Currently learning**  
-Advanced frameworks and tools to build scalable applications  
+Flutter, and AI/ML  
 
 🖊️ **Experience in**  
 Frontend and backend development, software engineering principles, and building responsive web applications  
 
 💬 **Ask me about**  
-React, Vue, GSAP, JavaScript, and full-stack development  
+React, design systems, and full-stack development  
 
 🗣️ **Looking to collaborate on**  
 Open-source projects and freelance software development work  
 
 📫 **Reach me at**  
-[example@gmail.com](mailto:example@gmail.com)  
+[example@gmail.com](mailto:bkhtwr19@gmail.com)  
 
 ---
 
